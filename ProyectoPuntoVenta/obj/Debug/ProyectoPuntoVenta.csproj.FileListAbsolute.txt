@@ -94,3 +94,4 @@ C:\Users\RRAMIREZ\Documents\PVentas\ProyectoPV\ProyectoPuntoVenta\obj\Debug\Proy
 C:\Users\RRAMIREZ\Documents\PVentas\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csproj.CopyComplete
 C:\Users\RRAMIREZ\Documents\PVentas\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.exe
 C:\Users\RRAMIREZ\Documents\PVentas\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.pdb
+C:\Users\RRAMIREZ\Documents\PVentas\ProyectoPV\ProyectoPuntoVenta\obj\Debug\ProyectoPuntoVenta.csprojAssemblyReference.cache
