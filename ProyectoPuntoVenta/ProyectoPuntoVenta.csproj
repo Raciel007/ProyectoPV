@@ -239,14 +239,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="DBPUNTO_VENTADataSet.xsc">
       <DependentUpon>DBPUNTO_VENTADataSet.xsd</DependentUpon>
     </None>
@@ -263,6 +258,11 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -352,6 +352,13 @@
     <None Include="Resources\exit.png" />
     <None Include="Resources\info64.png" />
     <None Include="Resources\question64.png" />
+    <None Include="Resources\icons8-whatsapp-64.png" />
+    <None Include="Resources\icons8-facebook-nuevo-64.png" />
+    <None Include="Resources\icons8-internet-64.png" />
+    <None Include="Resources\icons8-desbloqueo-aprobado-64.png" />
+    <None Include="Resources\icons8-Salir-64.png" />
+    <None Include="Resources\icons8-salida-64.png" />
+    <None Include="Resources\icons8-pollo-86.png" />
     <Content Include="shop.ico" />
   </ItemGroup>
   <ItemGroup>
